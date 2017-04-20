@@ -12,6 +12,7 @@
 		143D4FCF1EA8F16100F518F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 143D4FCD1EA8F16100F518F3 /* Main.storyboard */; };
 		143D4FD11EA8F16100F518F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 143D4FD01EA8F16100F518F3 /* Assets.xcassets */; };
 		143D4FD41EA8F16100F518F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 143D4FD21EA8F16100F518F3 /* LaunchScreen.storyboard */; };
+		146B25951EA8F59F00F9B6CB /* CustomUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146B25941EA8F59F00F9B6CB /* CustomUILabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		143D4FD01EA8F16100F518F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		143D4FD31EA8F16100F518F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		143D4FD51EA8F16100F518F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		146B25941EA8F59F00F9B6CB /* CustomUILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomUILabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				143D4FC91EA8F16100F518F3 /* AppDelegate.swift */,
 				143D4FCB1EA8F16100F518F3 /* ViewController.swift */,
 				143D4FCD1EA8F16100F518F3 /* Main.storyboard */,
+				146B25941EA8F59F00F9B6CB /* CustomUILabel.swift */,
 				143D4FD01EA8F16100F518F3 /* Assets.xcassets */,
 				143D4FD21EA8F16100F518F3 /* LaunchScreen.storyboard */,
 				143D4FD51EA8F16100F518F3 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				143D4FCC1EA8F16100F518F3 /* ViewController.swift in Sources */,
+				146B25951EA8F59F00F9B6CB /* CustomUILabel.swift in Sources */,
 				143D4FCA1EA8F16100F518F3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				143D4FDA1EA8F16100F518F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
