@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func onClickMyButton(_ sender: UIButton) {
+        print("onClickMyButton:")
+        print("sender.currentTitile: \(sender.currentTitle)")
+        print("sender.tag \(sender.tag)")
+    }
 
 }
 
