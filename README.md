@@ -8,3 +8,4 @@
 - [002 UIButtonでボタンを表示](https://github.com/ayumu838/reverse_resolution/tree/master/UIKit/UIKit_002)
 - [003 UIButtonでいろいろなボタンを表示](https://github.com/ayumu838/reverse_resolution/tree/master/UIKit/UIKit_003)
 - [004 UITextFeildで文字を入力](https://github.com/ayumu838/reverse_resolution/tree/master/UIKit/UIKit_004)
+- [005 UIImageViewで画像を表示](https://github.com/ayumu838/reverse_resolution/tree/master/UIKit/UIKit_005)
