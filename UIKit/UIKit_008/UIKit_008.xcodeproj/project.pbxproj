@@ -12,6 +12,7 @@
 		141724851EAAFBA500034D03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 141724831EAAFBA500034D03 /* Main.storyboard */; };
 		141724871EAAFBA500034D03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 141724861EAAFBA500034D03 /* Assets.xcassets */; };
 		1417248A1EAAFBA500034D03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 141724881EAAFBA500034D03 /* LaunchScreen.storyboard */; };
+		141724921EAAFC3C00034D03 /* CustomUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141724911EAAFC3C00034D03 /* CustomUIButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		141724861EAAFBA500034D03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		141724891EAAFBA500034D03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1417248B1EAAFBA500034D03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		141724911EAAFC3C00034D03 /* CustomUIButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomUIButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1417247F1EAAFBA500034D03 /* AppDelegate.swift */,
 				141724811EAAFBA500034D03 /* ViewController.swift */,
 				141724831EAAFBA500034D03 /* Main.storyboard */,
+				141724911EAAFC3C00034D03 /* CustomUIButton.swift */,
 				141724861EAAFBA500034D03 /* Assets.xcassets */,
 				141724881EAAFBA500034D03 /* LaunchScreen.storyboard */,
 				1417248B1EAAFBA500034D03 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				141724821EAAFBA500034D03 /* ViewController.swift in Sources */,
 				141724801EAAFBA500034D03 /* AppDelegate.swift in Sources */,
+				141724921EAAFC3C00034D03 /* CustomUIButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
